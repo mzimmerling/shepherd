@@ -13,6 +13,7 @@ Unsolved, not mentioned Details in Requirements
     - how to control distant long-Range-Nodes
         - idea 1: mobile network for control back-channel
         - idea 2: scheduled via pre-configuration (and access to time-base)
+        - -> Marco: I would not prioritize support for long-range links for the initial testbed deployment
     - variable TX-Power for multi-hop → is it enough to change firmware or do we need (programmable) attenuation?
         - -> input from kai: firmware should suffice
     - should the gpios to target be individually switchable (connected, disconnected) for less energy-interference
